@@ -1,2 +1,3 @@
-En fonction du nombre de personne rentrées sur l'écran "Informations", le nombre de prénoms demandés doit varier dans le layout.
-De même, l'écran "Ressenti" doit s'afficher respectivement une ou deux fois avec chacun des prénoms rentrés.
+IMPORTANT
+Suite à des soucis entre github et androidstudio nous avons réalisé le travail sur le github suivant:
+https://github.com/brichard01/dev_mo
